@@ -1,0 +1,30 @@
+use_bpm 110
+
+4.times do
+  play 69
+  sleep 0.5
+  play 72
+  sleep 0.5
+  play 77
+  sleep 0.5
+  play 81
+  sleep 0.5
+  play 79
+  sleep 0.5
+  play 77
+  sleep 0.5
+  play 74
+  sleep 0.5
+  play 70
+  sleep 0.5
+  play 70
+  sleep 0.5
+  play 74
+  sleep 0.5
+  play 77
+  sleep 0.5
+  play 81
+  sleep 0.5
+  play 79
+  sleep 1.6
+end
